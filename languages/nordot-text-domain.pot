@@ -1,0 +1,94 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Nordot\n"
+"POT-Creation-Date: 2019-11-10 10:21-0700\n"
+"PO-Revision-Date: 2019-11-10 10:19-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: nordot.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: nordot-search-page.php:426
+msgid "Invalid image URL"
+msgstr ""
+
+#: nordot.php:72 nordot.php:85
+msgid "Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: nordot.php:84
+msgid "Nordot"
+msgstr ""
+
+#: nordot.php:85
+msgid "Nordot Settings"
+msgstr ""
+
+#: nordot.php:86
+msgid "Nordot Curate"
+msgstr ""
+
+#: nordot.php:86
+msgid "Find Articles"
+msgstr ""
+
+#: nordot.php:158
+msgid "Error: Insufficient privileges."
+msgstr ""
+
+#: nordot.php:164
+msgid "To use this plugin, you need an account with nor.  Create an account"
+msgstr ""
+
+#: nordot.php:164
+msgid "here"
+msgstr ""
+
+#: nordot.php:183
+msgid ""
+"To find your ID, log into your Nordot account, select your Curator Unit, go "
+"to Settings, then Development under the General tab.  Copy the Media Unit ID."
+msgstr ""
+
+#: nordot.php:191
+msgid ""
+"To find your Token, log into your Nordot account, select your Curator Unit, "
+"go to Settings,\n"
+"\tthen Development under the General tab.  Copy the Token field."
+msgstr ""
+
+#: nordot.php:205
+msgid ""
+"To find your ID, log into your Nordot account, select your Content Owner "
+"Unit, go to Settings, then Development under the General tab.  Copy the "
+"Media Unit ID."
+msgstr ""
+
+#: nordot.php:213
+msgid ""
+"To find your token, log into your Nordot account, select your Content Owner "
+"Unit, go to Settings,\n"
+"    then Development under the General tab.  Copy the Token field."
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Nordot description"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Kevin Webb"
+msgstr ""

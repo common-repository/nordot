@@ -1,0 +1,109 @@
+div.update-nag { display: none;}
+
+ul#nordot-search-leftbar i.fa {
+	display: inline-block;
+	width: 1.25em;
+	margin-right: 5px;
+	text-align: center;
+}
+	
+div.nordot-spinner div.spinner-border {
+	width: 48px;
+	height: 48px;
+}
+
+
+li.active {
+	background-color: #bee5eb !important;
+	border-color: #bee5eb !important;
+}
+
+div#nordot-search-results .list-group-item {
+	height: 100px;
+	border: none;
+}
+
+div#nordot-search-results a:hover {
+	text-decoration: none; 
+}
+
+.modal-body div.nordot-searchItem-imgWrapper {
+	width: 75px;
+	min-width: 75px;
+	height: 75px;
+	min-height: 75px;
+}
+
+a.nordot-article-link div.nordot-searchItem-imgWrapper {
+	width: 100px;
+	min-width: 100px;
+	height: 100px;
+	min-height: 100px;	
+}
+
+div.nordot-searchItem-imgWrapper {
+	margin: 0;
+	padding: 0;	
+}
+
+div.nordot-searchItem-imgWrapper div.nordot-thumbnail {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+img.nordot-thumbnail-img {
+	width: 100%;
+  height: 100%;
+  object-fit: cover;	
+  vertical-align: bottom;
+}
+
+div.nordot-article-options i.fa {
+	font-size: 24px;
+}
+
+#nordot-annotation {
+	height: 80px;
+}
+
+table#nordot-media-units-table td {
+	text-align: center;
+}
+
+
+a.nordot-media-units-muanchor {
+	display: inline-block;
+	width: 100%;
+	height: 100%;
+}
+
+a.nordot-media-units-muanchor:hover {
+	background-color: #f1f1f1;
+}
+
+a.nordot-media-units-muanchor div.nordot-media-units-mulogo{
+  width: 60px;
+  height: 60px;
+  overflow: hidden;	
+  margin: 0 auto;
+}
+
+a.nordot-media-units-muanchor div.nordot-media-units-mulogo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;	
+  border: 1px solid #d5d8db;
+}
+
+div.nordot-media-units-muname {
+  line-height: 1rem;
+}
+.nordot-autocomplete-spinner { border: 1px solid #999; background: #FFF; overflow: auto; margin-top: -8px; z-index: 9999; position: absolute; display: none;}
+.autocomplete-suggestions { border: 1px solid #999; background: #FFF; overflow: auto; }
+.autocomplete-suggestion { padding: 2px 5px; white-space: nowrap; overflow: hidden; cursor: pointer;}
+.autocomplete-selected { background: #F0F0F0; }
+.autocomplete-suggestions strong { font-weight: normal; color: #3399FF; }
+.autocomplete-group { padding: 2px 5px; }
+.autocomplete-group strong { display: block; border-bottom: 1px solid #000; }

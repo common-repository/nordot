@@ -1,0 +1,685 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nordot\n"
+"POT-Creation-Date: 2021-04-11 13:57-0700\n"
+"PO-Revision-Date: 2021-04-11 13:59-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: nordot.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: nordot-common.php:28
+msgid "Annotation"
+msgstr "注釈"
+
+#: nordot-common.php:37
+msgid ""
+"Upload this post to the Nordot CMS for syndication to other sites and "
+"aggregators."
+msgstr ""
+"この投稿を Nordot CMS にアップロードして、他のサイトやアグリゲータにシンジ"
+"ケーションできるようにします。"
+
+#: nordot-common.php:51
+msgid ""
+"To enable this feature, go to Nordot Settings and enter Content Owner "
+"credentials."
+msgstr ""
+"この機能を有効にするには、[Nordot の設定] に移動し、[コンテンツ所有者の資格情"
+"報] を入力します。"
+
+#: nordot-common.php:55
+#, php-format
+msgid ""
+"To set the default value for this option, visit the <a target=\"_blank\" "
+"href=\"%s\">Settings</a> page."
+msgstr ""
+"このオプションの既定値を設定するには、[ <a target=\"_blank\" href=\"%s\">設"
+"定]</a> ページにアクセスします。"
+
+#: nordot-common.php:339
+msgid "Read More"
+msgstr "もっと読む"
+
+#: nordot-search-page.php:242 nordot-search-page.php:404
+msgid "Search Tips"
+msgstr "検索のヒント"
+
+#: nordot-search-page.php:243
+msgid "Featured Media Units"
+msgstr "注目メディアユニット"
+
+#: nordot-search-page.php:247 nordot-search-page.php:252
+msgid "Keyword"
+msgstr "キーワード"
+
+#: nordot-search-page.php:262
+msgid "Error saving search.  Please refresh and try again."
+msgstr "検索の保存中にエラーが発生しました。 更新してからやり直してください。"
+
+#: nordot-search-page.php:264
+msgid "Save Search"
+msgstr "検索条件を保存します"
+
+#: nordot-search-page.php:265
+msgid "Edit Search"
+msgstr "追加、編集、検索"
+
+#: nordot-search-page.php:274 nordot-search-page.php:640
+msgid "Read Later"
+msgstr "後で読む"
+
+#: nordot-search-page.php:278
+msgid "All Stories"
+msgstr "すべてのストーリー"
+
+#: nordot-search-page.php:287
+msgid "Error retrieving saved searches"
+msgstr "保存された検索条件の取得中にエラーが発生しました"
+
+#: nordot-search-page.php:297
+msgid "More"
+msgstr "もっと"
+
+#: nordot-search-page.php:337
+msgid "Comment"
+msgstr "コメント"
+
+#: nordot-search-page.php:339
+msgid ""
+"Annotation is commentary that will display in the curated version of the "
+"article."
+msgstr "注釈は、記事のキュレーションバージョンで表示される解説です。"
+
+#: nordot-search-page.php:344 nordot-search-page.php:572
+msgid "Set image as Featured Image"
+msgstr "画像をおすすめの画像として設定する"
+
+#: nordot-search-page.php:348 nordot-search-page.php:576
+msgid "Insert image into post"
+msgstr "投稿に画像を挿入"
+
+#: nordot-search-page.php:351 nordot-search-page.php:579
+msgid "Left Align"
+msgstr "左寄せ"
+
+#: nordot-search-page.php:352 nordot-search-page.php:580
+msgid "Center Align"
+msgstr "中心の整列"
+
+#: nordot-search-page.php:353 nordot-search-page.php:581
+msgid "Right Align"
+msgstr "右寄せ"
+
+#: nordot-search-page.php:358 nordot-search-page.php:586
+msgid "Category"
+msgstr "カテゴリー"
+
+#: nordot-search-page.php:375
+msgid "Success"
+msgstr "成功"
+
+#: nordot-search-page.php:376
+msgid "View Post"
+msgstr "投稿を表示"
+
+#: nordot-search-page.php:383
+msgid ""
+"An error has occurred.  Please refresh and try again.  You may have already "
+"republished this story."
+msgstr ""
+"エラーが発生しました。 更新して、もう一度やり直してください。 このストーリー"
+"は既に再公開されている可能性があります。"
+
+#: nordot-search-page.php:391 nordot-search-page.php:478
+#: nordot-search-page.php:507 nordot-search-page.php:604
+msgid "Close"
+msgstr "閉じる"
+
+#: nordot-search-page.php:392
+msgid "Save as Draft"
+msgstr "下書きとして保存"
+
+#: nordot-search-page.php:393
+msgid "Publish"
+msgstr "公開"
+
+#: nordot-search-page.php:413
+msgid "Syntax"
+msgstr "シンタックス"
+
+#: nordot-search-page.php:414
+msgid "Description"
+msgstr "説明"
+
+#: nordot-search-page.php:419
+msgid "climate change"
+msgstr "気候変動"
+
+#: nordot-search-page.php:420
+msgid ""
+"Filter stories by keywords. Stories containing \"climate\" AND \"change\" "
+"are retrieved. Use blank space to separate two or more keywords."
+msgstr ""
+"キーワードでストーリーをフィルタリングします。「気候」と「変化」を含む物語が"
+"取り出されます。2 つ以上のキーワードを区切るには、空白を使用します。"
+
+#: nordot-search-page.php:425
+msgid ""
+"Filter stories by exact phrase using quotes. Stories containing the phrase "
+"\"climate change\" are retrieved."
+msgstr ""
+"引用符を使用して、完全に一致する語句でストーリーをフィルター処理します。「気"
+"候変動」というフレーズを含むストーリーが取得されます。"
+
+#: nordot-search-page.php:429
+msgid "climate change OR global warming"
+msgstr "気候制御OR地球温暖化"
+
+#: nordot-search-page.php:430
+msgid ""
+"The OR syntax will retrieve stories that satisfy either condition. Stories "
+"containing the words \"climate\" AND \"change\" OR \"global\" AND \"warming"
+"\" are retrieved."
+msgstr ""
+"OR 構文は、いずれかの条件を満たすストーリーを取得します。「気候」と「変化」ま"
+"たは「グローバル」と「温暖化」という言葉を含む物語が取得されます。"
+
+#: nordot-search-page.php:434
+msgid "carbon –tax"
+msgstr "炭素 -税金"
+
+#: nordot-search-page.php:435
+msgid ""
+"The NOT (-) syntax will include stories containing the word(s) before the "
+"minus and exclude stories containing the word(s) after the minus. Stories "
+"that include the word \"carbon\" but exclude the word \"tax\" are retrieved."
+msgstr ""
+"NOT (-) 構文には、マイナスの前の単語を含むストーリーが含まれ、マイナスの後に"
+"単語を含むストーリーが除外されます。「カーボン」という単語を含むが、「税金」"
+"という単語を除くストーリーが取得されます。"
+
+#: nordot-search-page.php:439
+msgid "(climate change) OR (carbon –tax)"
+msgstr "(気候変動)OR (炭素 -税)"
+
+#: nordot-search-page.php:440
+msgid ""
+"Group search filters using brackets. Stories containing the words \"climate"
+"\" and \"change\" OR \"carbon\" but exclude the word \"tax\" are retrieved."
+msgstr ""
+"角かっこを使用して検索フィルターをグループ化します。「気候」と「変化」または"
+"「カーボン」という言葉を含むストーリーが検索されます。"
+
+#: nordot-search-page.php:444 nordot-search-page.php:449
+msgid "climate"
+msgstr "気候"
+
+#: nordot-search-page.php:445
+msgid "Filter stories by value specified in title."
+msgstr "タイトルで指定された値でストーリーをフィルター処理します。"
+
+#: nordot-search-page.php:450
+msgid "Filter Stories by value specified in tag."
+msgstr "タグで指定された値でストーリーをフィルター処理します。"
+
+#: nordot-search-page.php:455
+msgid ""
+"Filter stories by published date and time. You can use the following "
+"operators: >, < , >= and <=."
+msgstr ""
+"公開日時が指定した日時以降の記事に絞り込む。>、<、>=、<= の演算子が使用可能。"
+
+#: nordot-search-page.php:460
+msgid ""
+"Filter stories by created date and time. You can use the following "
+"operators: >, < , >=, and <=."
+msgstr ""
+"作成日時が指定した日時以前の記事に絞り込む。 >、<、>=、<= の演算子が使用可"
+"能。"
+
+#: nordot-search-page.php:465
+msgid "Filter Stories by image."
+msgstr "画像がある記事のみに絞り込む。"
+
+#: nordot-search-page.php:470
+msgid "Filter Stories by author."
+msgstr "オーサーがひもづいた記事のみに絞り込む。"
+
+#: nordot-search-page.php:489
+msgid "Media Units"
+msgstr "メディアユニット"
+
+#: nordot-search-page.php:518
+msgid "Options"
+msgstr "オプション"
+
+#: nordot-search-page.php:530
+msgid "An error has occurred.  Please refresh and try again."
+msgstr "エラーが発生しました。 更新してからやり直してください。"
+
+#: nordot-search-page.php:536
+msgid "Name of Save Search"
+msgstr "検索の保存名"
+
+#: nordot-search-page.php:537
+msgid "Enter Name"
+msgstr "名前の入力"
+
+#: nordot-search-page.php:542
+msgid "Automatically publish articles from this search."
+msgstr "この検索から記事を自動的に公開します。"
+
+#: nordot-search-page.php:547
+msgid "Number of articles:"
+msgstr "記事の数:"
+
+#: nordot-search-page.php:558
+msgid "Frequency:"
+msgstr "周波数:"
+
+#: nordot-search-page.php:605
+msgid "Create"
+msgstr "作成"
+
+#: nordot-search-page.php:606
+msgid "Save"
+msgstr "保存"
+
+#: nordot-search-page.php:639
+msgid "Curate"
+msgstr "バーテン"
+
+#: nordot-search-page.php:645
+msgid ""
+"There was an error while performing the search.  Please try again or refresh "
+"the page."
+msgstr ""
+"検索中にエラーが発生しました。 もう一度やり直すか、ページを更新してください。"
+
+#: nordot-search-page.php:650
+msgid "The search has no results."
+msgstr "検索に結果がありません。"
+
+#: nordot.php:100
+msgid "Every Ten Minutes"
+msgstr "10分ごと"
+
+#: nordot.php:104
+msgid "Every Thirty Minutes"
+msgstr "30分おき"
+
+#: nordot.php:108
+msgid "Every Sixty Minutes"
+msgstr "60分ごとに"
+
+#: nordot.php:112
+msgid "Every Six Hours"
+msgstr "6時間ごと"
+
+#: nordot.php:240 nordot.php:256
+msgid "Settings"
+msgstr "設定"
+
+#: nordot.php:255
+msgid "Nordot"
+msgstr ""
+
+#: nordot.php:256
+msgid "Nordot Settings"
+msgstr ""
+
+#: nordot.php:257
+msgid "Nordot Curate"
+msgstr ""
+
+#: nordot.php:257
+msgid "Find Articles"
+msgstr "記事の検索"
+
+#: nordot.php:271
+msgid "Nordot Articles"
+msgstr ""
+
+#: nordot.php:364 nordot.php:399
+msgid "Token"
+msgstr "トークン"
+
+#: nordot.php:372 nordot.php:528
+msgid "Automatically Upload Posts"
+msgstr "投稿を自動的にアップロードする"
+
+#: nordot.php:384
+msgid "Curator Unit"
+msgstr "キュレーターユニット"
+
+#: nordot.php:391
+msgid "Curator Media Unit ID"
+msgstr "キュレーター メディア ユニット ID"
+
+#: nordot.php:407
+msgid "Search Language"
+msgstr "検索言語"
+
+#: nordot.php:415
+msgid "Read More Style"
+msgstr "その他のスタイルを読む"
+
+#: nordot.php:435
+msgid "Settings updated"
+msgstr "設定を更新"
+
+#: nordot.php:442
+msgid "Error: Insufficient privileges"
+msgstr "エラー: 特権が不十分です"
+
+#: nordot.php:457
+msgid ""
+"Thank you for downloading the official Nordot plugin!  You are only a few "
+"steps away from sharing content and gaining revenue!  Please see below on "
+"how to get started."
+msgstr ""
+"公式Nordotプラグインをダウンロードしていただきありがとうございます! コンテン"
+"ツの共有や収益の獲得まで、ほんの数歩です。 開始する方法については、以下を参照"
+"してください。"
+
+#: nordot.php:462
+msgid "Get Started"
+msgstr "始める"
+
+#: nordot.php:463
+msgid "New to Nordot?  Please sign up below"
+msgstr ""
+
+#: nordot.php:467
+msgid "Sign Up"
+msgstr "サインアップ"
+
+#: nordot.php:470
+msgid "Already a user?  Please log in below."
+msgstr "既にユーザーですか? 以下にログインしてください。"
+
+#: nordot.php:474
+msgid "Log in"
+msgstr "ログイン"
+
+#: nordot.php:482
+msgid "Need help?"
+msgstr "ヘルプが必要ですか？"
+
+#: nordot.php:483
+msgid "Help Center Guides"
+msgstr "ヘルプセンターガイド"
+
+#: nordot.php:494
+msgid "Get Started Guide"
+msgstr "はじめにガイド"
+
+#: nordot.php:498
+msgid "Contact Us"
+msgstr "お問い合わせ"
+
+#: nordot.php:513
+#, fuzzy
+#| msgid "Content Owner Unit"
+msgid "Content Owner"
+msgstr "コンテンツ所有者ユニット"
+
+#: nordot.php:514 nordot.php:682
+msgid ""
+"To make your original content available for others to curate and republish, "
+"enter credentials for your Content Owner Unit."
+msgstr ""
+"元のコンテンツを他のユーザーがキュレーションして再公開できるようにするには、"
+"コンテンツ所有者ユニットの認証情報を入力します。"
+
+#: nordot.php:531
+#, fuzzy
+#| msgid ""
+#| "Check this box to automatically upload posts to Nordot.  You can still "
+#| "override this option on the individual post."
+msgid ""
+"Flip this toggle to automatically upload posts to Nordot.  You can still "
+"override this option on the individual post."
+msgstr ""
+"Nordot に投稿を自動的にアップロードするには、このチェックボックスをオンにしま"
+"す。 個々の投稿でこのオプションをオーバーライドすることはできます。"
+
+#: nordot.php:538
+#, fuzzy
+#| msgid "Content Owner Unit"
+msgid "Content Curator"
+msgstr "コンテンツ所有者ユニット"
+
+#: nordot.php:539
+#, fuzzy
+#| msgid ""
+#| "To search for articles to curate and republish, enter credentials for "
+#| "your Curator Unit."
+msgid ""
+"To republish content from other publications, enter credentials for your "
+"Curator Unit."
+msgstr ""
+"キュレーションして再公開する記事を検索するには、キュレーターユニットの認証情"
+"報を入力します。"
+
+#: nordot.php:542 nordot.php:629
+msgid "ID of your Curator Media Unit"
+msgstr "キュレーター メディア ユニットの ID"
+
+#: nordot.php:578 nordot.php:670
+msgid "Return articles written in the selected language."
+msgstr "選択した言語で書かれた記事を返します。"
+
+#: nordot.php:580 nordot.php:677
+msgid "Custom CSS for Read More link.  Leave blank for default style."
+msgstr ""
+"[続きを読む] リンク用のカスタム CSS。 既定のスタイルの場合は空白のままにしま"
+"す。"
+
+#: nordot.php:590
+#, fuzzy
+#| msgid "climate change"
+msgid "Save Changes"
+msgstr "気候変動"
+
+#: nordot.php:624
+msgid ""
+"To search for articles to curate and republish, enter credentials for your "
+"Curator Unit."
+msgstr ""
+"キュレーションして再公開する記事を検索するには、キュレーターユニットの認証情"
+"報を入力します。"
+
+#: nordot.php:630
+msgid ""
+"To find your Media Unit ID, log into your Nordot account and click on "
+"Curator Units in the left-hand menu. Select Settings and scroll down to "
+"Media Unit ID under the Development tab."
+msgstr ""
+"メディアユニットIDを確認するには、Nordotアカウントにログインし、左側のメ"
+"ニューで[キュレーターユニット]をクリックします。[設定]を選択し、[開発]タブの"
+"[メディアユニットID]まで下にスクロールします。"
+
+#: nordot.php:638
+msgid ""
+"To find your Media Unit token, log into your Nordot account and click on "
+"Curator Units in the left-hand menu. Select Settings and scroll down to "
+"Token under the Development tab.  You may have to press Issue button."
+msgstr ""
+"メディアユニットトークンを見つけるには、Nordotアカウントにログインし、左側の"
+"メニューで[キュレーターユニット]をクリックします。[設定] を選択し、[開発] タ"
+"ブの [トークン] まで下にスクロールします。 [問題] ボタンを押す必要がある場合"
+"があります。"
+
+#: nordot.php:688
+msgid ""
+"To find your Media Unit ID, log into your Nordot account and click on "
+"Content Owner Units in the left-hand menu. Select Settings and scroll down "
+"to Media Unit ID under the Development tab."
+msgstr ""
+"メディアユニットIDを確認するには、Nordotアカウントにログインし、左側のメ"
+"ニューで[コンテンツ所有者ユニット]をクリックします。[設定]を選択し、[開発]タ"
+"ブの[メディアユニットID]まで下にスクロールします。"
+
+#: nordot.php:696
+msgid ""
+"To find your Media Unit token, log into your Nordot account and click on "
+"Content Owner Units in the left-hand menu. Select Settings and scroll down "
+"to Token under the Development tab.  You may have to press Issue button."
+msgstr ""
+"メディアユニットトークンを見つけるには、Nordotアカウントにログインし、左側の"
+"メニューで[コンテンツ所有者ユニット]をクリックします。[設定] を選択し、[開"
+"発] タブの [トークン] まで下にスクロールします。 [問題] ボタンを押す必要があ"
+"る場合があります。"
+
+#: nordot.php:703
+msgid ""
+"Check this box to automatically upload posts to Nordot.  You can still "
+"override this option on the individual post."
+msgstr ""
+"Nordot に投稿を自動的にアップロードするには、このチェックボックスをオンにしま"
+"す。 個々の投稿でこのオプションをオーバーライドすることはできます。"
+
+#. Plugin Name of the plugin/theme
+msgid "Nordot: Content Curation & Syndication"
+msgstr "ノルドット: コンテンツキュレーションとシンジケーション"
+
+#. Description of the plugin/theme
+#, fuzzy
+#| msgid ""
+#| "Search for and monitor fresh news content from world-class sources—and "
+#| "curate and repost them on your own website. Syndicate your own original "
+#| "articles on the Nordot platform."
+msgid ""
+"Curate and repost fresh news content from world-class sources. Syndicate "
+"your own original articles."
+msgstr ""
+"世界クラスのソースから新しいニュースコンテンツを検索して監視し、独自のウェブ"
+"サイトでキュレーションして再投稿します。Nordot プラットフォーム上で独自のオリ"
+"ジナル記事をシンジケートします。"
+
+#. Author of the plugin/theme
+msgid "Kevin Webb"
+msgstr ""
+
+#~ msgid "Display full article in modal window"
+#~ msgstr "モーダル ウィンドウに記事全体を表示する"
+
+#~ msgid "Filter stories by value specified in label."
+#~ msgstr "ラベルで指定された値でストーリーをフィルター処理します。"
+
+#~ msgid "Content Owner Media Unit ID"
+#~ msgstr "コンテンツ所有者メディア ユニット ID"
+
+#~ msgid "Hello!"
+#~ msgstr "こんにちは!"
+
+#~ msgid "Thank you for downloading this WordPress plugin."
+#~ msgstr ""
+#~ "このワードプレスのプラグインをダウンロードしていただきありがとうございま"
+#~ "す。"
+
+#~ msgid "Here is a useful guide:"
+#~ msgstr "ここでは、便利なガイドです:"
+
+#~ msgid "How to get started on Nordot for WordPress Users."
+#~ msgstr "ワードプレスユーザーのためのNordotで始める方法。"
+
+#~ msgid ""
+#~ "If you have any questions about the plugin or Nordot service, please send "
+#~ "an email to "
+#~ msgstr "プラグインやNordotサービスに関するご質問は、メールで"
+
+#~ msgid "To use this plugin, you need a Nordot account.  "
+#~ msgstr "このプラグインを使用するには、Nordotアカウントが必要です "
+
+#~ msgid "Create an account here"
+#~ msgstr "ここでアカウントを作成する"
+
+#~ msgid "I already have an account."
+#~ msgstr "すでにアカウントを持っています"
+
+#, php-format
+#~ msgid ""
+#~ "Be sure to complete your Media Profile and other important media "
+#~ "management features in the Nordot CMS <a target=\"_blank\" href=\"%s"
+#~ "\">General Settings</a>."
+#~ msgstr ""
+#~ "メディア プロファイルおよびその他の重要なメディア管理機能は、Nordot CMS<a "
+#~ "target=\"_blank\" href=\"%s\">全般設定</a>で必ず完了してください。"
+
+#~ msgid "If you have any questions about the plugin, please send an email to "
+#~ msgstr "プラグインに関するご質問は、電子メールを送信してください。"
+
+#~ msgid "List of Media Units"
+#~ msgstr "メディアユニット一覧"
+
+#~ msgid "Invalid image URL"
+#~ msgstr "無効な画像URL"
+
+#~ msgid "election –president"
+#~ msgstr "選挙 – 大統領"
+
+#~ msgid "Tokyo Olympic"
+#~ msgstr "東京オリンピック"
+
+#~ msgid "Tokyo Olympic OR Olympic"
+#~ msgstr "東京 オリンピック OR 五輪"
+
+#~ msgid "(Tokyo Olympic) OR (election –president)"
+#~ msgstr "(東京 オリンピック) OR (選挙 -大統領)"
+
+#~ msgid "Olympic"
+#~ msgstr "オリンピック"
+
+#~ msgid "Filter Stories by ID value specified in \"contentsholder unit\"."
+#~ msgstr ""
+#~ "コンテンツホルダー・ユニットによる絞り込み。コンテンツホルダー・ユニットの"
+#~ "IDを指定。"
+
+#~ msgid "Filter Stories by ID value specified in series."
+#~ msgstr "連載による絞り込み。記事に付与されている連載のIDを指定。"
+
+#~ msgid "Filter Stories by ID value specified in the topic."
+#~ msgstr "トピックによる絞り込み。記事に付与されているトピックのIDを指定。"
+
+#~ msgid "Filter Stories by ID value specified in the author."
+#~ msgstr "オーサーによる絞り込み。オーサーのIDを指定。"
+
+#~ msgid ""
+#~ "Cover more stories, expand the reach of your site, and generate new ad "
+#~ "revenue.  Search and monitor content from world-class websites and news "
+#~ "providers and publish curated articles directly from your dashboard."
+#~ msgstr ""
+#~ "より多くのストーリーをカバーし、サイトのリーチを拡大し、新しい広告収益を生"
+#~ "み出します。 世界クラスのウェブサイトやニュースプロバイダからコンテンツを"
+#~ "検索および監視し、ダッシュボードから直接キュレーション記事を公開します。"
+
+#~ msgid ""
+#~ "Upload this post to Nordot and create a new Story with your Content Owner "
+#~ "account."
+#~ msgstr ""
+#~ "この投稿を Nordot にアップロードし、コンテンツ所有者アカウントで新しいス"
+#~ "トーリーを作成します。"
+
+#~ msgid ""
+#~ "Browse, curate, post story lead-ins using Nordot services.  Share your "
+#~ "original content on Nordot.  Earn Ad revenue when stories are read."
+#~ msgstr ""
+#~ "Nordot サービスを使用して、ストーリーのリードインを参照、キュレーション、"
+#~ "投稿します。 Nordot で元のコンテンツを共有します。 ストーリーが読まれたと"
+#~ "きに広告の収益を獲得します。"

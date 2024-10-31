@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap');
+
+body {
+	background-color: white !important;
+	font-family: 'DM Sans', sans-serif;
+}
+#wpcontent {
+	padding-left: 0 !important;
+}
+
+#wpcontent div.wrap{
+	margin: 0 !important;
+}
+.nordot_settings_part {
+	/* background: url("../images/top.2b8f875.svg"); */
+	background: url("../images/bgimg.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.nordot_settings_part_section {
+	min-height: 325px;
+	border: 2px solid #222525;	
+}
+
+.nordot_settings_part_section h3 {
+	font-family: 'Zilla Slab', serif;
+	font-size: 31px;
+}
+
+.nordot_settings_part a.btn-info{
+	background-color: #0eb4b6 !important;
+	border-color: #0eb4b6 !important;
+	color: white !important;
+	/* text-shadow: .5px .5px black; */
+	width: 200px;
+}
+
+.nordot_settings_part a.btn-info:hover{
+	color: #fff;
+    background-color: #0b979a !important;
+    border-color: #0b979a !important;
+}
+
+a.nordot-settings-link {
+	color: #0eb4b6;
+	text-decoration: underline;
+	font-weight:500;
+	font-size: 12pt;
+}
+
+.nordot-settings-spacer {
+	width: 2px; 
+	height: 100%; 
+	border: 1px solid #222525;
+}
+
+.nordot-grey {
+	color: #222525;
+}
+
+.nordot-blue {
+	color: #0eb4b6 !important;
+}
+
+.nordot_settings_part_section h3 {
+	color: #222525;
+}
+
+.nordot_settings_part_section .custom-control-input:checked~.custom-control-label::before {
+    color: #fff;
+    border-color: #0eb4b6;
+	background-color: #0eb4b6;
+}
+
+.custom-control-label::before {
+	height: 1.25rem !important;
+	width: 2rem !important;
+}
+
+.custom-switch .custom-control-label::after {
+	width: calc(1.25rem - 4px) !important;
+	height: calc(1.25rem - 4px) !important;	
+}
+
+.text-secondary {
+	color: #62636B !important;
+}
+
+/*.tooltip .tooltip-inner {
+  color: black !important;
+  background-color: white !important;
+}
+*/
+.tooltip div.arrow {
+	left: 130px !important;
+}
+.fa-lg {
+	font-size: 1.5em !important;
+}
+/*
+Nordot Green  - #0EB4B6
+Nordot Dark Grey - #222525
+Nordot Grey - #62636B
+Nordot Beige - #F8F6F4 
+*/
